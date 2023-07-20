@@ -1,9 +1,9 @@
 {
     "firstName": "Antonio",
-    "middleName": "Jorge",
+    "middleName": "",
     "lastName": "Del Rio",
     "gender": "Male",
-    "birthday": "05.04.2002",
+    "birthday": "",
     "address": {
         "street": "Rämistrasse 71",
         "city": "Zürich",
@@ -21,13 +21,13 @@
         },
         "foreignIdentification": {
             "foreignID": "Yes",
-            "countryOfIssue": "Luxembourg",
+            "countryOfIssue": "",
             "foreignIDfront": "...",
             "foreignIDback": "..."
         },
         "residencyPermit":{
             "permitID": "Yes",
-            "permitType": "EU/EFTA B",
+            "permitType": "",
             "permitPhotoFront": "...",
             "permitPhotoBack": "..."
         },
