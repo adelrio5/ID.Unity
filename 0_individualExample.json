@@ -1,0 +1,54 @@
+{
+    "firstName": "Antonio",
+    "middleName": "Jorge",
+    "lastName": "Del Rio",
+    "gender": "Male",
+    "birthday": "05.04.2002",
+    "address": {
+        "street": "Rämistrasse 71",
+        "city": "Zürich",
+        "canton": "Zürich",
+        "country": "Switzerland",
+        "postalCode": "8006",
+        "proofOfAddressType": "Utility Bill",
+        "proofOfAddress": "...IPFS CID..."
+    },
+    "identification":{
+        "swissIdentification": {
+            "swissID": "No",
+            "swissPassportFront": "",
+            "swissPassportBack": ""
+        },
+        "foreignIdentification": {
+            "foreignID": "Yes",
+            "countryOfIssue": "Luxembourg",
+            "foreignIDfront": "...",
+            "foreignIDback": "..."
+        },
+        "residencyPermit":{
+            "permitID": "Yes",
+            "permitType": "EU/EFTA B",
+            "permitPhotoFront": "...",
+            "permitPhotoBack": "..."
+        },
+        "driversLicense": {
+            "driversLicenseID": "No",
+            "countryOfIssueLicense": "",
+            "licenseFront": "...",
+            "licenseBack": "..."
+        },
+        "employment":{
+            "employed": "No",
+            "employmentType": "",
+            "contractType": "",
+            "employer": "",
+            "employmentRole": "", 
+            "grossSalary": "", 
+            "employmentContract": ""
+        }
+    },
+    "contactDetails": {
+        "email": "adelrio5@outlook.com",
+        "phone": "+41782294644"
+    } 
+}

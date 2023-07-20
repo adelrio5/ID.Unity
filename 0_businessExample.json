@@ -1,0 +1,63 @@
+{
+    "businessIdentification": {
+        "businessName": "ABC Solutions",
+        "startDate": "01.01.2022",
+        "commercialRegistrationNumber": "123456789",
+        "physicalAddress": {
+            "street": "Rämistrasse 71",
+            "city": "Zürich",
+            "canton": "Zürich",
+            "country": "Switzerland",
+            "postalCode": "8006",
+            "proofOfAddressType": "Bank Statement",
+            "proofOfAddress": "...IPFS CID..."
+        },
+        "legalStructure": "AG",
+        "businessIndustry": "Consultancy",
+        "taxIdentification": "ABC_143221",
+        "AMLpolicy": "...IPFS CID...",
+        "ownershipInfo": {
+            "ubo": {
+                "firstName": "Jeff",
+                "middleName": "Adam",
+                "lastName": "Simpson",
+                "birthday": "01.01.1970",
+                "uboCountryOfCitizenship": "Switzerland",
+                "uboProofOfCitizenship": "...IPFS CID...",
+                "ownershipPercentage": "51%",
+                "uboAddress": {
+                    "street": "Rämistrasse 71",
+                    "city": "Zürich",
+                    "canton": "Zürich",
+                    "country": "Switzerland",
+                    "postalCode": "8006",
+                    "proofOfAddressType": "Utility Bill",
+                    "proofOfAddress": "...IPFS CID..."
+                }
+            },
+            "numberOfShares": "1000",
+            "boardOfDirectors": {
+                "numberOfDirectors": 4,
+                "director1": {
+                    "firstName": "John",
+                    "middleName": "Johnson",
+                    "lastName": "Smith",
+                    "birthday": "02.02.1972",
+                    "countryOfCitizenship": "Germany",
+                    "proofOfCitizenship": "...IPFS CID...",
+                    "address": {
+                        "street": "Rämistrasse 72",
+                        "city": "Zürich",
+                        "canton": "Zürich",
+                        "country": "Switzerland",
+                        "postalCode": "8006",
+                        "proofOfAddressType": "Utility Bill",
+                        "proofOfAddress": "...IPFS CID..."
+                    }
+
+                }
+            }
+        }
+    }
+
+}
